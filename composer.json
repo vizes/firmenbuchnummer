@@ -1,0 +1,12 @@
+{
+    "name": "vizes/firmenbuchnummer",
+    "description": "Firmenbuchnummern Checker f\u0000r \u0000sterreich",
+    "authors": [
+        {
+            "name": "Jan",
+            "email": "jan@i-gap.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
